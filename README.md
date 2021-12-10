@@ -1,2 +1,3 @@
-# Frej Björnsson - Junior .NET Developer
+# Frej Björnsson
+## Junior .NET Developer
 
